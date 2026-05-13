@@ -1,6 +1,6 @@
 # Full-Stack Docker Application — CSC424 Final Exam
 
-**Author:** Kevin A. Concepcion-Bustillo  
+**Author:** Kevin Concepcion
 **Institution:** Southern Connecticut State University
 
 This repository contains a containerized full-stack application integrated with a GitHub Actions CI/CD pipeline for automated testing and deployment.
