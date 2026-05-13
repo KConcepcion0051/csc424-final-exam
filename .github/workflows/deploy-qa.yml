@@ -45,5 +45,6 @@ jobs:
           script: |
             cd ~/csc424Final
             git pull origin main
+            docker compose down --remove-orphans
             docker compose pull
             docker compose up -d
