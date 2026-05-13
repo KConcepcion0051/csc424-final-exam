@@ -20,4 +20,4 @@ COPY --from=build /app/publish .
 # Expose the correct port (Standard for .NET is often 8080 or 80)
 EXPOSE 8080
 
-ENTRYPOINT ["dotnet", "Backend.dll"]
+ENTRYPOINT ["dotnet", "backend.dll"]
